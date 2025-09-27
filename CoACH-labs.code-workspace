@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"autoDocstring.docstringFormat": "sphinx-notypes",
+		"editor.defaultFormatter": "njpwerner.autodocstring"
+	}
+}

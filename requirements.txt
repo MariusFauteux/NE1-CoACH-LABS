@@ -1,0 +1,14 @@
+numpy # super useful numerical stuff https://numpy.org/doc/stable/index.html
+matplotlib # plotting like in matlab https://matplotlib.org/
+scipy # for scientific nunerical stuff,curve fitting, zillions of other useful things https://scipy.org/
+engineering_notation # easy formatting of scale like u, m, k, M, etc https://pypi.org/project/engineering-notation/
+schemdraw==0.10.0 # for drawing schematics, we need specific version https://schemdraw.readthedocs.io/en/latest/index.html
+pyplane # interface to the CoACH chip https://code.ini.uzh.ch/CoACH/CoACH_Teensy_interface
+jupyter-save-load-vars # to save and load data from notebook https://github.com/tobidelbruck/jupyter-save-load-vars
+pyudev # for USB device operations https://pyudev.readthedocs.io/en/latest/#
+tqdm # iterator progress bars https://github.com/tqdm/tqdm
+Deprecated # to mark some functions in ne1 as not to be used in future https://pypi.org/project/Deprecated/
+pytest # to run automatic tests
+ipykernel # for notebooks
+# jupyter # for lab notebookss - tobi commented, not clear it is needed for normal use
+notebook # needed for HTML export
